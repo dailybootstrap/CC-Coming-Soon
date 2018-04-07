@@ -4,7 +4,7 @@ Coming Soon Landing Pages
 Created in - Adobe Experiense Design(XD)
 You can use PDF versition for Adobe Illustrator
 
-![CC XD Mockup](dailybootstrap)
+![CC XD Mockup](https://dailybootstrap.github.io/quickcleaners/)
 
 [Demo](https://dailybootstrap.github.io/quickcleaners/)
 
